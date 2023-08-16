@@ -1,5 +1,7 @@
 # Autocomplete, Markov, and Huffman Coding
 
+![Project Screenshot](./Huffman_tree_2.svg)
+
 ## Introduction
 
 In my journey of software development, I've undertaken three projects that showcase my ability to tackle complex algorithmic challenges and create efficient and functional solutions. These projects encompass various aspects of modern software applications, from autocomplete algorithms to generative text modeling and data compression techniques.
