@@ -1,4 +1,4 @@
-# My Project Portfolio: Autocomplete, Markov, and Huffman Coding
+# Autocomplete, Markov, and Huffman Coding
 
 ## Introduction
 
